@@ -1,0 +1,21 @@
+
+Often we need to draw specific patterns like stars, circles,light lenses,waves, etc.
+
+It can be to see those patterns or to move the vertices
+
+We could use textures but drawin the shape gives us more control
+
+All we have are coordinates and our mathematical skills
+
+
+
+We are goin to draw many patterns from very simple gradients to very complex perlin compositions
+
+it's the perfect opportunity to practice and to learn how to use functions
+
+This pattern is called perlin noise
+
+Perlin noise can be used to recreate nature shapes like clouds, water,fire,terrain, elevation but it can also be used to aniamte the grass or snow moving in the wind
+
+
+Let's use the cool uv gradient color we had at the beginning but with those patterns
